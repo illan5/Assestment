@@ -11,3 +11,7 @@ Run 'make' on the root directory
 pip3 install -r requirements.txt --quiet
 python3 main.py
 ```
+
+## Example
+
+![Ecample image](https://github.com/illan5/assestment/blob/main/example.png)
