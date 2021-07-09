@@ -1,4 +1,4 @@
-# Planets API Assessment
+# Planets API
 
 ## Execution using make
 
